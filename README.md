@@ -42,9 +42,8 @@ Built in Rust for performance, Python for extensibility.
 <!-- EVENTS:START -->
 | Date | Event | Location |
 |:-----|:------|:---------|
-| Mon, Aug 24, 2026 | **[vLLM x Dynamo meetup](https://calendar.google.com/calendar/render?action=TEMPLATE&text=vLLM+x+Dynamo+meetup&dates=20260825T010000Z%2F20260825T040000Z&location=https%3A%2F%2Fluma.com%2Fr8o604o0)** | [Luma](https://luma.com/r8o604o0) |
-| Thu, Jul 30, 2026 | ~~[Dynamo Afterhours](https://calendar.google.com/calendar/render?action=TEMPLATE&text=Dynamo+Afterhours&dates=20260731T010000Z%2F20260731T040000Z&location=https%3A%2F%2Fluma.com%2FJulyDynamoAfterHours)~~ | [Luma](https://luma.com/JulyDynamoAfterHours) |
-| Wed, Jul 29, 2026 | ~~[Dynamo community meeting](https://calendar.google.com/calendar/render?action=TEMPLATE&text=Dynamo+community+meeting&dates=20260729T173000Z%2F20260729T181500Z&location=https%3A%2F%2Fmeet.google.com%2Fheb-demu-qok)~~ | [Online](https://meet.google.com/heb-demu-qok) |
+| Thu, Nov 19, 2026 | ~~[SIG Frontend — Biweekly Sync](https://calendar.google.com/calendar/render?action=TEMPLATE&text=SIG+Frontend+%E2%80%94+Biweekly+Sync&dates=20261119T210000Z%2F20261119T220000Z&details=Join+with+Google+Meet%3A+https%3A%2F%2Fmeet.google.com%2Fkuz-iapc-efd%0AOr+dial%3A+%28US%29+%2B1+929-333-4713+PIN%3A+602380682%23%0AMore+phone+numbers%3A+https%3A%2F%2Ftel.meet%2Fkuz-iapc-efd%3Fpin%3D5046305483125%26hs%3D7%0A%0ALearn+more+about+Meet+at%3A+https%3A%2F%2Fsupport.google.com%2Fa%2Fusers%2Fanswer%2F9282720)~~ | – |
+| Thu, Nov 19, 2026 | ~~[SIG Router](https://calendar.google.com/calendar/render?action=TEMPLATE&text=SIG+Router&dates=20261119T163000Z%2F20261119T173000Z&details=Join+with+Google+Meet%3A+https%3A%2F%2Fmeet.google.com%2Fwan-wzmn-zfz%0AOr+dial%3A+%28US%29+%2B1+316-789-6527+PIN%3A+316996382%23%0AMore+phone+numbers%3A+https%3A%2F%2Ftel.meet%2Fwan-wzmn-zfz%3Fpin%3D8174162176244%26hs%3D7%0A%0ALearn+more+about+Meet+at%3A+https%3A%2F%2Fsupport.google.com%2Fa%2Fusers%2Fanswer%2F9282720)~~ | – |
 <!-- EVENTS:END -->
 
 > Events are updated automatically. Subscribe to our [public calendar](https://calendar.google.com/calendar/embed?src=c_c2448d2efb09eac2ddee1f34524124135bd3f4554868769059105e18e1b97e8f%40group.calendar.google.com).
